@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461459506391",
+    "project_id": "fir-githubbk",
+    "storage_bucket": "fir-githubbk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461459506391:android:51113f01aa96e52f51dc92",
+        "android_client_info": {
+          "package_name": "com.example.firebase_github_bk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADXLIH26fm9qoXLdYd8sAPs4V_S_VdF2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
